@@ -22,6 +22,6 @@ i<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org
     </dependency>
   </dependencies>
   <build>
-    <finalName>-arun-</finalName>
+    <finalName>01-Maven-webApp-02</finalName>
   </build>
 </project>
